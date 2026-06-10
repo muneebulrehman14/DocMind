@@ -42,3 +42,13 @@ DocMind lets you chat with your documents (PDF, DOCX, TXT) using a local AI mode
 ```bash
 git clone https://github.com/muneebulrehman14/DocMind-Local-Chatbot.git
 cd DocMind-Local-Chatbot
+**2. Create virtual environment**
+python -m venv venv
+source venv/bin/activate      # Linux/Mac
+# venv\Scripts\activate       # Windows
+
+** 3. Install dependencies**
+pip install -r requirements.txt
+
+**Run the app
+streamlit run app.py**
