@@ -29,3 +29,16 @@ DocMind lets you chat with your documents (PDF, DOCX, TXT) using a local AI mode
 │ FLAN-T5 │◀────│ Sentence- │────▶│ Chunking & │
 │ (LLM) │ │ Transformers │ │ Embedding │
 └─────────────┘ └──────────────┘ └─────────────────┘
+
+## 📋 Requirements
+
+- **Python 3.9+**
+- **8GB RAM** (4GB minimum, slower)
+- **3GB free disk space** (for models)
+
+## 🚀 Quick Start
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/muneebulrehman14/DocMind-Local-Chatbot.git
+cd DocMind-Local-Chatbot
