@@ -52,3 +52,27 @@ pip install -r requirements.txt
 
 **Run the app
 streamlit run app.py**
+
+
+**🎮 Usage Guide**
+Upload Documents
+
+    Click sidebar expander
+
+    Drag & drop PDF/DOCX/TXT files
+
+    Wait for "✅ Indexed" message
+
+Ask Questions
+
+    Type in chat input at bottom
+
+    Bot searches relevant chunks
+
+    Answer appears with source citations
+
+Manage Sessions
+
+    Clear Chat — Removes conversation history
+
+    Reset All — Deletes all documents and starts fresh
