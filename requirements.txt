@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+python-docx
+sentence-transformers
+chromadb
+transformers
+torch
+
+https://huggingface.co/spaces/MSSOCIAL/docanalyzer/resolve/main/requirements.txt
